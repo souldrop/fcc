@@ -30,4 +30,3 @@ Write the following tests in tests/2_functional-tests.js:
     Delete an issue: DELETE request to /api/issues/{project}
     Delete an issue with an invalid _id: DELETE request to /api/issues/{project}
     Delete an issue with missing _id: DELETE request to /api/issues/{project}
-
