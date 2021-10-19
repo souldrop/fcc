@@ -2,9 +2,9 @@ Build a Tribute Page
 
 Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/zNqgVx.
 
-User Story #1: My tribute page should have an element with a corresponding id="main", which contains all other elements.
+User Story #1: My tribute page should have an element with a corresponding id="main", which contains all other elements. 
 
-User Story #2: I should see an element with a corresponding id="title", which contains a string (i.e. text) that describes the subject of the tribute page (e.g. "Dr. Norman Borlaug").
+User Story #2: I should see an element with a corresponding id="title", which contains a string (i.e. text) that describes the subject of the tribute page (e.g. "Dr. Norman Borlaug"). 
 
 User Story #3: I should see a div element with a corresponding id="img-div".
 
